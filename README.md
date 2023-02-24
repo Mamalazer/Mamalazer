@@ -1,7 +1,7 @@
 ## Всем привет! 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AQA+Engineer)](https://git.io/typing-svg)
 
-## Contact
+## Контакты:
 
 ![grad0ff](https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&link=https://t.me/Mamalazer)
 
@@ -26,7 +26,7 @@
 </p>
 
 ## Проекты:
-### Автотесты для Web приложения Saucedemo, Api сервиса Dummy и для мобильного приложения Ozon
+### Дипломный проект по автоматизации тестирования web, api и mobile платформ
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaurB&repo=final_project_ui)](https://github.com/Mamalazer/qa_guru_final_project)
 
 ## Статистика:
